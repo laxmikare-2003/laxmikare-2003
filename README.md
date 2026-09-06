@@ -35,7 +35,7 @@ I enjoy learning new technologies, solving programming problems, and developing 
 - JavaScript
 - React.js
 
-### Backend
+ Backend
 - Python
 - Node.js
 - Express.js
